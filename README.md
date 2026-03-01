@@ -24,6 +24,7 @@ if you want to play around with it and make it work on your own phone or even ma
 which I have no doubt you could.
 
 ------------------------------------------------------- IMPORTANT-----------------------------------------------------
+
 I hope I pointed it out in the video but to get the app to actually play the songs, the folder with all the songs 
 needs to be in the Main Storage folder, again this is linked with getting the /storage/emulated/0/Music route.
 If I coded it up correctly the name of your folder can be whatever you choose, and you can have as many as you want
