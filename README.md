@@ -33,6 +33,7 @@ files they will not show up. (This may be a simple oversight on my part, if so I
 But the most important part (seeing as your here), I hope you find this app useful and above all more conveniant than
 the other stuff out there, I know I did, but I understand that people appreciate the easiness in having someone share
 their playlist without needing to plug two phones together, or having an end of the year music rewind, that's ok.
-  All I wanted was to listen to music with as little distraction as possible, and I made it as I dreamt it up to be
+
+  All I wanted was to listen to music with as little distraction as possible, and I made it as I dreamt it up to be.
   In using this app I hope you do too
 
