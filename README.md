@@ -1,6 +1,8 @@
 # MP3Z-Player
 
-Download .APK file for Andoid app
+Download .APK file for Andoid app 
+I dont know how to make a nice download button, click the view raw button to download and then 
+transfer to your phone and open it with a package installer (it should pop up automatically)
 
 Download .AIA file if you want to build from where I stopped (for use with MIT App Inventor)
 
