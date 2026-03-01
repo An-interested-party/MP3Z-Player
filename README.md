@@ -1,4 +1,9 @@
 # MP3Z-Player
+
+Download .APK file for Andoid app
+
+Download .AIA file if you want to build from where I stopped (for use with MIT App Inventor)
+
 An MP3 player app made by ZM with the MIT app Inventor only for Android 
 When I was making this app the main struggle I had was setting up how to route through the filing systems on Android,
 specifically on my own android and I'm ignorant if other android os's on other phones have different route file systems
