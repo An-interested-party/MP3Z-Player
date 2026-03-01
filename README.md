@@ -7,7 +7,7 @@ transfer to your phone and open it with a package installer (it should pop up au
 
 Download .AIA file if you want to build from where I stopped (for use with MIT App Inventor)
 
-An MP3 player app made by ZM with the MIT app Inventor only for Android 
+An MP3 player app made by Z with the MIT app Inventor only for Android 
 When I was making this app the main struggle I had was setting up how to route through the filing systems on Android,
 specifically on my own android and I'm ignorant if other android os's on other phones have different route file systems
 so I have no idea if they will work or not, but I do know that this will not work on IOS as I know it has a diffrent
